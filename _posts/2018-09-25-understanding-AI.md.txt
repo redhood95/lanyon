@@ -3,11 +3,17 @@ layout: post
 title: Understanding AI and Data Science
 ---
 
-
 AI and Data science have been the most talked about things in the tech community this year. Artificial Intelligence is the basis for many of the most disruptive technologies of 2018 and Data science has been the hottest job of 2018.
 
-In 2018 we generate 2.5 quintillion bytes of data each day on average which is a lot, this data just acts like a fuel for the AI and Data science industry. Data Science is about understanding the data, visualizing it so that others can understand the patterns easily but with increasing amount of data, it gets harder and harder to understand the patterns this is where Artificial intelligence games into play.  Given a large sample data, Ai algorithms are able to find patterns and predictions without extensive work by the researcher.
+In 2018 we generate 2.5 quintillion bytes of data each day on average which is a lot, this data just acts like a fuel for the AI and Data science industry. Data Science is about understanding the data, visualizing it so that others can understand the patterns easily but with increasing amount of data, it gets harder and harder to understand the patterns this is where Artificial intelligence games into play.  Given a large sample data, Ai algorithms are able to find patterns and predictions without extensive work by the researcher.
 
 AI in its own is a very huge area of study but we will only look into Machine learning, deep learning and heuristic search Methods.
 
-Machine learning is an application of AI that provides the systems the ability to automatically learn and improve from experience. Machine Learning is about making predictions based on the data provided. The algorithms are chosen according to the task or type of predictions we have to find. For example, when we need to distinguish if a person is a smoker or non-smoker, this would be a classification problem. 
+Machine Learning
+Machine learning is an application of AI that provides the systems the ability to automatically learn and improve from experience. Machine Learning is about making predictions based on the data provided. The algorithms are chosen according to the task or type of predictions we have to find. For example, when we need to distinguish if a person is a smoker or non-smoker, this would be a classification problem. Traditional Ml algorithms are widely used for the structured data.
+
+Deep Learning
+Deep Learning is a subcategory of ML algorithms which are based on the architecture of our brain called as Neural networks. With Deep Learning we take on even more complex Data, like unstructured data like texts and images. Tasks like image classification or machine translation are done using deep neural networks, as they provide much higher accuracy. Deep neural nets are only used when the data provided is large enough for them to achieve good performance scores. Traditional ml algorithms tend to get better performance for small datasets as compared to neural nets.
+
+Heuristic Search Method
+The heuristic Search method is a technique for optimization for a problem, it means these are used to find the best solutions to a problem much faster than traditional algorithms, traditional algorithms take a long time to find solutions which are minimized by heuristic search methods.
